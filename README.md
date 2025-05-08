@@ -77,7 +77,7 @@ This project is open-source and available under the **MIT License**.
 ## 🙋‍♂️ Author
 
 Developed by **[Saugat Poudel](https://github.com/saugatpoudel100)**  
-📧 Contact: *youremail@example.com*
+📧 Contact: *sauggupoudel10@gmail.com*
 
 Feel free to star ⭐ the repo or contribute!
 
